@@ -1,2 +1,11 @@
 Everybody should edit this
+<<<<<<< HEAD
 Jehoram Edited
+=======
+<<<<<<< HEAD
+Ofofon Edited
+=======
+
+Abasikpongke edited
+>>>>>>> 70f7f9eecc6e588f09466f8452f1c8958db13d44
+>>>>>>> 9744aad78bf0c9ea0293284ecb57bfc73648a76e
