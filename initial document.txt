@@ -1,2 +1,7 @@
 Everybody should edit this
+<<<<<<< HEAD
 Ofofon Edited
+=======
+
+Abasikpongke edited
+>>>>>>> 70f7f9eecc6e588f09466f8452f1c8958db13d44
